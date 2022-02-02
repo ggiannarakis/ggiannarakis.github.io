@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Georgios Giannarakis"
   avatar : "/assets/images/asml-photo.jpg"
-  bio    : "Data Scientist. Experimentation, ML and Causal Inference"
+  bio    : "Research Data Scientist. Experimentation, ML and Causal Inference"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
