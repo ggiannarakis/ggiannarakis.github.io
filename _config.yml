@@ -14,11 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Actionable Insights
+# subtitle: data science blog | personal portfolio
 email: georgiosgiannarakis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog and portfolio, dedicated to all things data science
-  with a focus on experimentation and causal inference; for truly actionable insights.
-# twitter_username: username
+  with a focus on experimentation and causal inference: for truly actionable insights.
+twitter_username: giannarakisg
 github_username: ggiannarakis
 minimal_mistakes_skin: air
 search: true
@@ -59,20 +60,26 @@ plugins:
 author:
   name   : "Georgios Giannarakis"
   avatar : "/assets/images/asml-photo.jpg"
-  bio    : "Data Scientist, Experimentation and Causal Inference"
+  bio    : "Research Data Scientist" # Experimentation and Causal Inference
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ggiannarakis/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter"
+    #   url: "https://twitter.com/giannarakisg"
+    # - label: "Medium"
+    #   icon: "fab fa-fw fa-medium-m"
+    #   url: "https://medium.com/@ggiannarakis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ggiannarakis"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/ggiannarakis"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium-m"
-      url: "https://medium.com/@ggiannarakis"
+    # - label: "Kaggle"
+    #   icon: "fab fa-fw fa-kaggle"
+    #   url: "https://www.kaggle.com/ggiannarakis"
+    # - label: "Scholar"
+    #   icon: "fab fa-fw fa-google"
+    #   url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
     - label: "Mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:georgiosgiannarakis@gmail.com"
@@ -82,15 +89,21 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ggiannarakis/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter"
+    #   url: "https://twitter.com/giannarakisg"
+    # - label: "Medium"
+    #   icon: "fab fa-fw fa-medium-m"
+    #   url: "https://medium.com/@ggiannarakis"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ggiannarakis"
-    - label: "Kaggle"
-      icon: "fab fa-fw fa-kaggle"
-      url: "https://www.kaggle.com/ggiannarakis"
-    - label: "Medium"
-      icon: "fab fa-fw fa-medium-m"
-      url: "https://medium.com/@ggiannarakis"
+    # - label: "Kaggle"
+    #   icon: "fab fa-fw fa-kaggle"
+    #   url: "https://www.kaggle.com/ggiannarakis"
+    # - label: "Scholar"
+    #   icon: "fab fa-fw fa-google"
+    #   url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
     - label: "Mail"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:georgiosgiannarakis@gmail.com"
