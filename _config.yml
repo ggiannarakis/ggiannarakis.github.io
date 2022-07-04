@@ -60,14 +60,16 @@ plugins:
 author:
   name   : "Georgios Giannarakis"
   avatar : "/assets/images/asml-photo.jpg"
-  bio    : "Research Data Scientist" # Experimentation and Causal Inference
+  bio    : "Data Scientist at the National Observatory of Athens. 
+  Email: <br> firstnamelastname@gmail.com"
+  location: "Athens, Greece"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ggiannarakis/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter"
-    #   url: "https://twitter.com/giannarakisg"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/giannarakisg"
     # - label: "Medium"
     #   icon: "fab fa-fw fa-medium-m"
     #   url: "https://medium.com/@ggiannarakis"
@@ -77,21 +79,21 @@ author:
     # - label: "Kaggle"
     #   icon: "fab fa-fw fa-kaggle"
     #   url: "https://www.kaggle.com/ggiannarakis"
-    # - label: "Scholar"
-    #   icon: "fab fa-fw fa-google"
-    #   url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
-    - label: "Mail"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:georgiosgiannarakis@gmail.com"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
+#    - label: "Mail"
+#      icon: "fas fa-fw fa-envelope"
+#      url: "mailto:georgiosgiannarakis@gmail.com"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/ggiannarakis/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter"
-    #   url: "https://twitter.com/giannarakisg"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://twitter.com/giannarakisg"
     # - label: "Medium"
     #   icon: "fab fa-fw fa-medium-m"
     #   url: "https://medium.com/@ggiannarakis"
@@ -101,12 +103,12 @@ footer:
     # - label: "Kaggle"
     #   icon: "fab fa-fw fa-kaggle"
     #   url: "https://www.kaggle.com/ggiannarakis"
-    # - label: "Scholar"
-    #   icon: "fab fa-fw fa-google"
-    #   url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
-    - label: "Mail"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:georgiosgiannarakis@gmail.com"
+    - label: "Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.gr/citations?hl=en&user=CRUnhWkAAAAJ"
+#    - label: "Mail"
+#      icon: "fas fa-fw fa-envelope"
+#      url: "mailto:georgiosgiannarakis@gmail.com"
 
 defaults:
   # _posts
@@ -120,6 +122,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"
@@ -146,4 +149,3 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-    
