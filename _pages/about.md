@@ -5,27 +5,37 @@ title: "Georgios Giannarakis"
 
 [//]: # (add video / slides / paper where needed)
 
-I work as a Data Scientist at the National Observatory of Athens. 
-My background is in Applied Mathematics. 
+I work as a Data Scientist at the National Observatory of Athens.
+My background is in Applied Mathematics.
 I am interested in all things data science, 
 with a special passion for experimentation and causal inference.
-For more, see my CV or LinkedIn profile.
+For more, see my [CV](https://drive.google.com/file/d/1FjkaIg9TJSS2ChEmNkYeZHclWcPsJqcz/view?usp=sharing)
+or [LinkedIn profile](https://www.linkedin.com/in/ggiannarakis/).
 
-## Experience
+I obtained my B.Sc. in Mathematics from the [University of Athens](https://en.math.uoa.gr/)
+in Greece, and my M.Sc. in Industrial and Applied Mathematics from the
+[Eindhoven University of Technology](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/)
+in the Netherlands. While studying in the Netherlands I 
+interned at e-commerce startup [Optiply](https://optiply.co.uk/) and semiconductor leader 
+[ASML](https://www.asml.com/en).
+After graduating and fulfilling my mandatory military service in Greece, I joined
+NOA in September 2021.
 
-* 2021-now: **Data Scientist**
-  * _National Observatory of Athens, Greece_
-* 2020: **Data Science Intern**
-  * _ASML, The Netherlands_
-* 2018: **Business Intelligence Intern**
-  * _Optiply, The Netherlands_
+[//]: # (## Experience)
 
-## Education
+[//]: # (* 2021-now: **Data Scientist**, _National Observatory of Athens, Greece_)
 
-* **M.Sc. in Industrial and Applied Mathematics**
-  * _Eindhoven University of Technology, 2020_
-* **B.Sc. in Mathematics**
-  * _University of Athens, 2016_
+[//]: # (* 2020: **Data Science Intern**, _ASML, The Netherlands_)
+
+[//]: # (* 2018: **Business Intelligence Intern**, _Optiply, The Netherlands_)
+
+[//]: # (## Education)
+
+[//]: # (<span style="font-size:0.5em;">LOVE!</span>)
+
+[//]: # (* **M.Sc. in Industrial and Applied Mathematics**, _Eindhoven University of Technology, 2020_)
+
+[//]: # (* **B.Sc. in Mathematics**, _University of Athens, 2016_)
 
 ## Out of office?
 

@@ -1,5 +1,5 @@
 ---
-title: "Talk at Microsoft Research: Community Workshop on Microsoft's Causal Tools"
+title: "Talk at Community Workshop organized by Microsoft Research"
 categories:
   - Talks
 tags:
@@ -13,13 +13,13 @@ gallery:
     image_path: assets/images/msr-screenshot.png
 ---
 
-Microsoft Research has developed several prominent opens-source tools for causality.
-Yesterday, they organized a community workshop for the tools they have developed.
-It was held online, featuring renowned researchers and a large audience.
+Microsoft Research has developed several prominent open-source tools for causality.
+Yesterday, they organized a [community workshop](https://www.microsoft.com/en-us/research/event/community-workshop-on-dowhy-econml/)
+for the tools they have developed. It was held online, featuring renowned researchers and a large audience.
 
 At the National Observatory of Athens, we are interested in using causal machine learning 
-for sustainable agricultural decision-making (see relevant post). In our work,
-we have in fact primarily used Microsoft's EconML for CATE estimation.
+for sustainable agricultural decision-making (see relevant [post](https://ggiannarakis.github.io/blog/cates-for-agri/)). 
+In our work, we have in fact primarily used Microsoft's [EconML](https://github.com/microsoft/EconML) for CATE estimation.
 
 Following a one-on-one call with Microsoft Researchers, we were selected to present in the
 Breakout Discussions part of the workshop, representing the sustainability sector.
