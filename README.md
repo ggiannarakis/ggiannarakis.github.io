@@ -1,5 +1,6 @@
 The repository of my personal website hosted on GitHub pages.
-To start a local server ```bundle exec jekyll serve```
+
+Use ```bundle exec jekyll serve``` to start a local server. 
 
 ---
 

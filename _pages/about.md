@@ -9,8 +9,7 @@ I work as a Data Scientist at the National Observatory of Athens.
 My background is in Applied Mathematics.
 I am interested in all things data science, 
 with a special passion for experimentation and causal inference.
-For more, see my [CV](https://drive.google.com/file/d/1FjkaIg9TJSS2ChEmNkYeZHclWcPsJqcz/view?usp=sharing)
-or [LinkedIn profile](https://www.linkedin.com/in/ggiannarakis/).
+For more, see my [LinkedIn profile](https://www.linkedin.com/in/ggiannarakis/).
 
 I obtained the B.Sc. in Mathematics from the [University of Athens](https://en.math.uoa.gr/)
 in Greece, and the M.Sc. in Industrial and Applied Mathematics from the
