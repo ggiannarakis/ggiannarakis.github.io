@@ -33,8 +33,9 @@ job titles that contain "causal inference"** somewhere in the job description.
 **And you can now find out too!** Thanks to a daily ETL process I have developed,
 most of the _causal-jobs_ posted on the internet will end up on a database that is
 automatically analyzed once a week, producing a report with all the relevant insights.
+For now, only jobs posted anywhere in the European Union are included.
 
 So, if you do have (or planning to invest time in) causal skills, _do_(check) the most recent
 version of the report! For more info, 
-take a look at the [Portfolio project](https://ggiannarakis.github.io/portfolio/causal-jobs/).
+take a look at the [Portfolio project](https://ggiannarakis.github.io/portfolio/1.causal-jobs/).
 [Code](https://github.com/ggiannarakis/causal-jobs) is also on Github.
