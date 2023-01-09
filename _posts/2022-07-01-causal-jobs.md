@@ -1,5 +1,5 @@
 ---
-title: "What is the status of causal inference in the European job market?"
+title: "Causal-jobs: What is the status of causal inference in the European job market?"
 categories:
   - Project
 tags:

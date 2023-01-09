@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Actionable Insights
+title: Home
 # subtitle: data science blog | personal portfolio
 email: georgiosgiannarakis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal blog and portfolio, dedicated to all things data science
+  Personal site and portfolio, dedicated to all things data science
   with a focus on experimentation and causal inference: for truly actionable insights.
 twitter_username: giannarakisg
 github_username: ggiannarakis
@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Georgios Giannarakis"
-  avatar : "/assets/images/asml-photo.jpg"
+  avatar : "/assets/images/evia-short.png"
   bio    : "Data Scientist at the National Observatory of Athens. 
   Email: <br> firstnamelastname@gmail.com"
   location: "Athens, Greece"
