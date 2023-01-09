@@ -14,7 +14,7 @@ gallery:
     image_path: assets/images/earthvision.png
 ---
 
-The paper that I led titled "Towards assessing agricultural land suitability with causal machine
+The paper that I wrote titled "Towards assessing agricultural land suitability with causal machine
 learning" was accepted at the [Earthvision](https://www.grss-ieee.org/events/earthvision-2022/)
 workshop of [CVPR 2022](https://cvpr2022.thecvf.com/)!
 

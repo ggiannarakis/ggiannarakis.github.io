@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/ccai-logo.png
 ---
 
-This December, I will be participating as the first author of two accepted papers 
+This December, I will be participating as first author of two accepted papers 
 at the ["Tackling Climate Change with Machine Learning" workshop](https://www.climatechange.ai/events/neurips2022),
 organized by [Climate Change AI](https://www.climatechange.ai/) as part of [NeurIPS 2022](https://nips.cc/Conferences/2022).
 
@@ -32,7 +32,7 @@ the transparency of the digital agriculture market and aid agtech adoption.
 
 ---
 
-Both works demonstrate the potential of causal AI for improving decision-making in agriculture. 
+**Both works demonstrate the potential of causal AI for improving decision-making in agriculture.** 
 I am really glad to share that they were both selected for a spotlight presentation 
 (top 10% of [accepted papers](https://www.climatechange.ai/events/neurips2022#accepted-works)).
 

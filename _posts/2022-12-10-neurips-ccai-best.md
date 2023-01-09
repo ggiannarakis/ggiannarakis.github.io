@@ -12,11 +12,11 @@ header:
 
 I am delighted to share that the paper I led titled 
 ["Personalizing Sustainable Agriculture with Causal Machine Learning"](https://www.climatechange.ai/papers/neurips2022/112) 
-won the Best Proposal Paper award at the ["Tackling Climate Change with Machine Learning" 
+won the **Best Proposal Paper** award at the ["Tackling Climate Change with Machine Learning" 
 NeurIPS 2022 Workshop](https://www.climatechange.ai/events/neurips2022).
 
 The paper was selected as best among 19 proposal papers that applied Machine Learning to solve
-climate change related issues in novel ways. They included work done at top institutions 
+climate change related issues in novel ways. They included work done at institutions 
 such as [MIT](https://www.climatechange.ai/papers/neurips2022/111), 
 [Microsoft](https://www.climatechange.ai/papers/neurips2022/103)
 and [ETH Zurich](https://www.climatechange.ai/papers/neurips2022/96).
