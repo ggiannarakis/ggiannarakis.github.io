@@ -120,7 +120,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       show_date: true
   # _pages
@@ -137,7 +137,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
 
 category_archive:
   type: liquid
