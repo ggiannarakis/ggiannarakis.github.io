@@ -15,8 +15,8 @@ I obtained the B.Sc. in Mathematics from the [University of Athens](https://en.m
 in Greece, and the M.Sc. in Industrial and Applied Mathematics from the
 [Eindhoven University of Technology](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/)
 in the Netherlands. While studying in the Netherlands I 
-interned at e-commerce startup [Optiply](https://optiply.co.uk/) and semiconductor leader 
-[ASML](https://www.asml.com/en).
+interned at e-commerce startup [Optiply](https://optiply.co.uk/) and [ASML](https://www.asml.com/en), 
+Europe's largest tech company.
 After graduating and fulfilling my mandatory military service in Greece, I joined
 the National Observatory of Athens in September 2021.
 
