@@ -3,21 +3,17 @@ permalink: /about/
 title: "Georgios Giannarakis"
 ---
 
-[//]: # (add video / slides / paper where needed)
-
 I work as a Data Scientist at the National Observatory of Athens.
-My background is in Applied Mathematics.
-I am interested in all things data science, 
-with a special passion for experimentation and causal inference.
-For more, see my [LinkedIn profile](https://www.linkedin.com/in/ggiannarakis/).
+My background is in Applied Mathematics. I am interested in all things data science, with a special
+passion for experimentation, machine learning, and causal inference.
 
 I obtained the B.Sc. in Mathematics from the [University of Athens](https://en.math.uoa.gr/)
 in Greece, and the M.Sc. in Industrial and Applied Mathematics from the
 [Eindhoven University of Technology](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science/)
-in the Netherlands. While studying in the Netherlands I 
+in the Netherlands. While in the Netherlands I 
 interned at e-commerce startup [Optiply](https://optiply.co.uk/) and [ASML](https://www.asml.com/en), 
 Europe's largest tech company.
-After graduating and fulfilling my mandatory military service in Greece, I joined
+After fulfilling my mandatory military service in Greece, I joined
 the National Observatory of Athens in September 2021.
 
 [//]: # (## Experience)

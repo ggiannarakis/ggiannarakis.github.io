@@ -17,8 +17,7 @@ title: Home
 # subtitle: data science blog | personal portfolio
 email: georgiosgiannarakis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website and portfolio, dedicated to all things data science, 
-  experimentation and causal inference: for truly actionable insights.
+  Personal website and portfolio
 twitter_username: giannarakisg
 github_username: ggiannarakis
 minimal_mistakes_skin: air
@@ -60,8 +59,7 @@ plugins:
 author:
   name   : "Georgios Giannarakis"
   avatar : "/assets/images/evia-short.png"
-  bio    : "Data Scientist at the National Observatory of Athens. 
-  Email: <br> firstnamelastname@gmail.com"
+  bio    : "Data Scientist. Experimentation, Machine Learning, Causal Inference."
   location: "Athens, Greece"
   links:
     - label: "LinkedIn"
