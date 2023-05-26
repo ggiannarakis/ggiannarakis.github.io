@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Georgios Giannarakis"
-  avatar : "/assets/images/evia-short.png"
+  avatar : "/assets/images/evia-short-rotated.png"
   bio    : "Data Scientist. Experimentation, Machine Learning, Causal Inference."
   location: "Athens, Greece"
   links:
