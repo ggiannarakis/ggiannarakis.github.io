@@ -3,7 +3,7 @@ permalink: /about/
 title: "Georgios Giannarakis"
 ---
 
-I work as a Data Scientist at the National Observatory of Athens.
+I work as a Data Scientist at HP.
 My background is in Applied Mathematics. I am interested in all things data science, with a special
 passion for experimentation, machine learning, and causal inference.
 
@@ -13,8 +13,13 @@ in Greece, and the M.Sc. in Industrial and Applied Mathematics from the
 in the Netherlands. While in the Netherlands I 
 interned at e-commerce startup [Optiply](https://optiply.co.uk/) and [ASML](https://www.asml.com/en), 
 Europe's largest tech company.
-After fulfilling my mandatory military service in Greece, I joined
-the National Observatory of Athens in September 2021.
+After fulfilling my mandatory military service in Greece, I worked at the 
+[National Observatory of Athens](https://github.com/Agri-Hub) for two years
+where I primarily developed and improved digital products for sustainable agriculture.
+In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) to work on experimentation 
+and expand on the usage of causality and machine learning
+to bring value in an e-commerce setting.
+
 
 [//]: # (## Experience)
 
