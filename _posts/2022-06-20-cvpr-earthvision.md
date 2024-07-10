@@ -1,6 +1,5 @@
 ---
-title: "Publication at CVPR Earthvision: Towards assessing agricultural
-land suitability with causal machine learning"
+title: "Publication at CVPR Earthvision"
 categories:
   - Publications
 tags:
