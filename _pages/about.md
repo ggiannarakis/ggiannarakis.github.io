@@ -16,7 +16,7 @@ Europe's largest tech company.
 After fulfilling my mandatory military service in Greece, I worked at the 
 [National Observatory of Athens](https://github.com/Agri-Hub) for two years
 where I primarily developed and improved digital products for sustainable agriculture.
-In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) using data science and analytics
+In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) where I am using data science and analytics
 to drive growth in an e-commerce setting.
 
 
