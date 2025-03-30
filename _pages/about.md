@@ -5,7 +5,7 @@ title: "Georgios Giannarakis"
 
 I work as a Data Scientist at HP.
 My background is in Applied Mathematics. I am interested in all things data science, with a special
-passion for experimentation, machine learning, and causal inference.
+passion for experimentation and causal inference.
 
 I obtained the B.Sc. in Mathematics from the [University of Athens](https://en.math.uoa.gr/)
 in Greece, and the M.Sc. in Industrial and Applied Mathematics from the
@@ -16,9 +16,8 @@ Europe's largest tech company.
 After fulfilling my mandatory military service in Greece, I worked at the 
 [National Observatory of Athens](https://github.com/Agri-Hub) for two years
 where I primarily developed and improved digital products for sustainable agriculture.
-In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) to work on experimentation 
-and expand on the usage of causality and machine learning
-to bring value in an e-commerce setting.
+In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) using data science and analytics
+to drive growth in an e-commerce setting.
 
 
 [//]: # (## Experience)
