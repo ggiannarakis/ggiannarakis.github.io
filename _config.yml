@@ -59,8 +59,8 @@ plugins:
 author:
   name   : "Georgios Giannarakis"
   avatar : "/assets/images/evia-short-rotated.png"
-  bio    : "Data Scientist at HP Inc."
-  location: "Athens, Greece"
+  bio    : "Senior Data Analyst"
+  location: "Athens"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"

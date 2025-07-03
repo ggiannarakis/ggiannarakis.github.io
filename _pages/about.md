@@ -3,8 +3,8 @@ permalink: /about/
 title: "Georgios Giannarakis"
 ---
 
-I work as a Data Scientist at HP.
-My background is in Applied Mathematics. I am interested in all things data science, with a special
+I am a Senior Data Analyst at Plum Fintech.
+My background is in applied mathematics. I am interested in all things data science, with a special
 passion for experimentation and causal inference.
 
 I obtained the B.Sc. in Mathematics from the [University of Athens](https://en.math.uoa.gr/)
@@ -14,10 +14,11 @@ in the Netherlands. While in the Netherlands I
 interned at e-commerce startup [Optiply](https://optiply.co.uk/) and [ASML](https://www.asml.com/en), 
 Europe's largest tech company.
 After fulfilling my mandatory military service in Greece, I worked at the 
-[National Observatory of Athens](https://github.com/Agri-Hub) for two years
-where I primarily developed and improved digital products for sustainable agriculture.
-In August 2023, I joined [HP](https://www.hp.com/us-en/home.html) where I am using data science and analytics
-to drive growth in an e-commerce setting.
+[National Observatory of Athens](https://github.com/Agri-Hub)
+where I developed and improved digital products for sustainable agriculture.
+I then joined [HP](https://www.hp.com/us-en/home.html) where I used data science
+to drive growth in an e-commerce setting. As of mid 2025 I am a senior data analyst at [Plum](https://withplum.com/), 
+immersing myself into the exhilarating world of fintech.
 
 
 [//]: # (## Experience)
